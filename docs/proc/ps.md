@@ -1,3 +1,5 @@
+[Main menu](../../README.md)
+
 ### **`ps` Command in Linux**
 
 The `ps` (process status) command displays information about currently running processes. It is a powerful tool for monitoring and managing processes on a Linux system.
@@ -157,3 +159,5 @@ ps -p 1234 -o pid,comm,state,etime
   ```bash
   ps aux | awk '{print $2, $11}'
   ```
+
+[Main menu](../../README.md)

@@ -1,3 +1,5 @@
+[Main menu](../../README.md)
+
 ### **States of Processes in Linux**
 
 In Linux, a process can exist in various states during its lifecycle. These states describe what the process is doing at a given moment.
@@ -154,3 +156,5 @@ Sleeping processes are waiting for a resource, such as I/O.
 - **Troubleshooting**: Identifying zombies and managing uninterruptible sleeps can resolve system bottlenecks.
 - **Resource Management**: Prioritize and tune processes effectively by monitoring states.
 
+
+[Main menu](../../README.md)

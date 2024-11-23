@@ -1,3 +1,5 @@
+[Main menu](../../README.md)
+
 ### **BSD Options in the `ps` Command**
 
 BSD options are commonly used with the `ps` command for a simpler, compact, and versatile display format. Unlike standard UNIX options, BSD-style options do not require a leading dash (`-`).
@@ -126,3 +128,5 @@ You can combine BSD options for more tailored outputs:
 - BSD options are compact and often used for quick, system-wide process monitoring.
 - The `ps aux` combination is the most common for admins to view all processes.
 - Combine with `grep` or `awk` for refined outputs.
+
+[Main menu](../../README.md)
