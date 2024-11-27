@@ -1,3 +1,5 @@
+[Main menu](../../README.md)
+
 # About TMUX
 
 ### **General Information About TMUX**
@@ -143,3 +145,6 @@ tmux source-file ~/.tmux.conf
    - It’s strictly a command-line tool, which might be less appealing to users who prefer graphical interfaces.
 
 ---
+
+
+[Main menu](../../README.md)

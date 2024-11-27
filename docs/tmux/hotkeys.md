@@ -1,3 +1,5 @@
+[Main menu](../../README.md)
+
 # TMUX CHEAT SHEET
 ---
 
@@ -143,3 +145,5 @@ Run these commands in a terminal or after pressing `Ctrl-b :`:
   `Ctrl-b :`
 
 ---
+
+[Main menu](../../README.md)

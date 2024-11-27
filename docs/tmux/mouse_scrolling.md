@@ -1,6 +1,10 @@
-Scrolling in a tmux terminal is done using **copy mode**. Here's how you can do it:
+[Main menu](../../README.md)
 
 # Mouse Scrolling in TMUX
+
+
+Scrolling in a tmux terminal is done using **copy mode**. Here's how you can do it:
+
 
 ---
 
@@ -60,3 +64,6 @@ If mouse scrolling doesn't work:
 2. Check that `set -g mouse on` is active.
 3. Verify terminal multiplexer settings don't interfere with tmux.
 
+
+
+[Main menu](../../README.md)
