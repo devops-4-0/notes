@@ -5,3 +5,7 @@
 - [bsd options](./docs/proc/bsd.md)
 - [ps options: lax and fax](./docs/proc/lax_fax.md)
 
+## Tmux
+- [Introduction](./docs/tmux/tmux.md)
+- [Hotkeys](./docs/tmux/hotkeys.md)
+- [Mouse scrolling](./docs/tmux/mouse_scrolling.md)
