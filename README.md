@@ -12,3 +12,4 @@
 
 ## Usrts
 - [User limits](./docs/users/limits.md)
+- [Sudoers](./docs/users/sudoer.md)
