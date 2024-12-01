@@ -10,6 +10,10 @@
 - [Hotkeys](./docs/tmux/hotkeys.md)
 - [Mouse scrolling](./docs/tmux/mouse_scrolling.md)
 
-## Usrts
+## Users
 - [User limits](./docs/users/limits.md)
 - [Sudoers](./docs/users/sudoer.md)
+
+## Network
+- [Netplan](./docs/network/netplan.md)
+- [IPTables](./docs/network/iptables.md)
