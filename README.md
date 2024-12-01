@@ -9,3 +9,6 @@
 - [Introduction](./docs/tmux/tmux.md)
 - [Hotkeys](./docs/tmux/hotkeys.md)
 - [Mouse scrolling](./docs/tmux/mouse_scrolling.md)
+
+## Usrts
+- [User limits](./docs/users/limits.md)
